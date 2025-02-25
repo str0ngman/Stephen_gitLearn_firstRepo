@@ -1,1 +1,1 @@
-void func()
+boolean func()
